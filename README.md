@@ -1,5 +1,6 @@
-Warehouse Supply-Chain Analysis
+Warehouse Supply-Chain Analysis:
 Written by Ozuzu Chidiebere
+
 Project Overview
 
 I conducted this project to transform a raw supply chain inventory dataset into a structured, analysis ready dataset and use it to uncover patterns in inventory distribution, warehouse performance, product categories, supplier exposure, and stock availability.
